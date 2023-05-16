@@ -1,0 +1,7 @@
+img.darker {
+  transition: all 0.2s ease-in-out;
+}
+
+img.darker:hover {
+  filter: brightness(50%);
+}
